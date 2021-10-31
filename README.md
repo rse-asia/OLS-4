@@ -1,6 +1,6 @@
 # OLS-4: Building the Research Software Engineering (RSE) Association in Asia Region
 
-Hello :wave: 
+Hello! :wave: 
 Below are some ideas related to this project.
 
 ## Problem 
