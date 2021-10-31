@@ -1,7 +1,7 @@
 # Citizen Code of Conduct
 
 ## Note:
-We follow the Code of Conduct of the [Society of Research Software Engineering](https://society-rse.org/)
+We also follow the Code of Conduct of the [Society of Research Software Engineering](https://society-rse.org/)
 
 ## 1. Purpose
 
